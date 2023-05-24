@@ -1,6 +1,8 @@
 const int LED=9;
 const int BUTTON=2;
 bool lastButton=LOW;
+bool currentButton=LOW;
+bool ledOn=LOW;
 void setup()
 {
   pinMode(LED,OUTPUT);
