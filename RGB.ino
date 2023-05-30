@@ -48,10 +48,6 @@ void setMode(int mode)
   }
   
   //Your Code goes here
-  //BLUE
-  //PURPLE (RED+BLUE)
-  //TEAL (BLUE+GREEN) 
-  //(GREEN+RED+BLUE)
   
   //OFF (mode == 0)
   else  
